@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&width=435&lines=Data+Analysis+%26+Visualization;UI%2FUX+Driven+Problem+Solver;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Data+Analysis+%26+Visualization;UI%2FUX+Driven+Problem+Solver;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### 💬 About Me
 - 🎓 **Education**: B.S. in Data Science, Seoul Women's University (Attending)
