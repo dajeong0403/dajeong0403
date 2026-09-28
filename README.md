@@ -1,18 +1,14 @@
-# 안녕하세요! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&width=435&lines=Data+Analysis+%26+Visualization;UI%2FUX+Driven+Problem+Solver;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/dajeong0403?style=social" />
-
 ### 💬 About Me
-- 🎓 **Major**: Data Science
+- 🎓 **Education**: B.S. in Data Science, Seoul Women's University (Attending)
+- 🔬 **Lab**: Undergraduate Researcher at [WIDH Lab](https://sites.google.com/view/widh-lab/home) (2026.07 ~ Present)
 - 💡 **Interests**: Data Analysis, Interactive Visualization, UI/UX
-- 📫 **Contact**: `djtiffany1@naver.com`
+- 📫 **Contact**: `djtiffany1@naver.com` | `djtiffany1@gmail.com`
 
 ### 🔗 Connect with Me
-<a href="https://instagram.com/tender_xhixken" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto:djtiffany1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="mailto:djtiffany1@naver.com">
   <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
